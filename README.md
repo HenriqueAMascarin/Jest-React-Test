@@ -1,7 +1,7 @@
 # Sobre
  Esse repositorio é sobre o video da Rocketseat, que traz o uso do Jest junto com React Testing Library que acabei aprendendo. Também contem a função do rerender funcionando.
 
- Sobre o problema do rerender que da no fim, eu acabei resolvendo colocando um useEffect, porque o rerender não refaz a parte fora do return.
+ Sobre o problema do rerender no fim, eu acabei resolvendo colocando um useEffect, porque o rerender não refaz a parte fora do return.
 
 ## 🔗 Links:
 
